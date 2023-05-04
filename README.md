@@ -6,15 +6,15 @@ Oluşturacağım projede beni motive eden kısım öncelikle kendimce bir proje 
 
 ## Ne fark yaratacağız? ve Hangi kısımları iyileştireceğiz? 
 Herhangi bir işletme tarafından isdtediği alanda kullanabilecek.
+#Amaç 
+İş yeri sahiplerinin her eşyasını kağıt kalemle değilde daha kolay bir şekide bilgisayarından açık ve anlaşılır halde sınıflandırması.
 # ANALİZ 
 ## İhtiyaç Analizi
 Stokta olanları daha kalıcı ve kolay bir şekilde analiz edip girdi çıktıları sağlamak.
 ## İçerik Analizi 
 Otomasyonum anaşılır ve grafikler ile desteklenmiş şekilde  kullanıma hazır hale gelecek.
-## Kullanıcı Analizi
-Kullanıcılarımız internet üzerinden erişim sağlayabilecek herkese açık bir .exe dosyası.
 ## Araç Analizi 
-Otomasyonum C# ve SQL kodları ile tasarlıyorum.
+Otomasyonum C# ve SQL kodları ile tasarlıyorum ayrıca MYSql veritabanı kullanacağım.
 # Kullanılacak Kaynaklar 
 • Bilgisayar </br>
 • C#,SQL </br>
