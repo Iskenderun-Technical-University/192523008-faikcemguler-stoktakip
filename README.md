@@ -6,7 +6,7 @@ Oluşturacağım projede beni motive eden kısım öncelikle kendimce bir proje 
 
 ## Ne fark yaratacağız? ve Hangi kısımları iyileştireceğiz? 
 Herhangi bir işletme tarafından isdtediği alanda kullanabilecek.
-#Amaç 
+# Amaç 
 İş yeri sahiplerinin her eşyasını kağıt kalemle değilde daha kolay bir şekide bilgisayarından açık ve anlaşılır halde sınıflandırması.
 # ANALİZ 
 ## İhtiyaç Analizi
