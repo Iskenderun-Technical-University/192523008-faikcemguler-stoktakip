@@ -1,0 +1,33 @@
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.AssemblyReference.cache
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.Form1.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.frmmüşteriekle.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.frmmüşterilistele.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.frmkategori.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.frmmarka.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.frmürünekle.resources
+C:\Users\Faik Cem\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.frmürünlistele.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.csproj.AssemblyReference.cache
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.Form1.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.frmkategori.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.frmmarka.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.frmmüşteriekle.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.frmmüşterilistele.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.frmürünekle.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.frmürünlistele.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\fcg01\OneDrive\Masaüstü\Kirtasiye_Stok-main(1)\Kirtasiye_Stok-main\stok_takip\obj\Debug\stok_takip.pdb
